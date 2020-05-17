@@ -1,0 +1,2 @@
+In sublime for creating a blank html file 
+type html and press tab
